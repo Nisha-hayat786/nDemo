@@ -118,11 +118,9 @@ const App = () => {
         {/* Content Overlay */}
         <div className="relative z-10 flex items-center justify-center h-[475px] px-8">
           <div className="text-center">
-            <h1 className="text-5xl font-outline md:text-7xl font-bold text-transparent mb-8 leading-tight" style={{
-              textShadow: '0 0 1px white',
-      WebkitTextStroke: window.innerWidth < 768 ? '0.5px white' : '1px white',
-
-              textStroke: window.innerWidth < 768 ? '0.5px white' : '1px white',
+            <h1 className="text-5xl md:text-7xl font-bold text-transparent mb-8 leading-tight" style={{
+              WebkitTextStroke: '0.5px white',
+              textStroke: '0.5px white',
               color: 'transparent'
             }}>
               Where Technology
