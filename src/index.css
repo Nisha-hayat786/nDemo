@@ -1,9 +1,9 @@
 @import "tailwindcss";
 
 .text-stroke{
-    /* font-size: 75px; */
-	-webkit-text-stroke-width: 2px;
+    font-size: 75px;
+	-webkit-text-stroke-width: 1.5px;
 	-webkit-text-stroke-color: white;
 	color: transparent;
-	font-family: Arial Black, Gadget;
+	font-family: Impact, Charcoal, sans-serif;
 }
