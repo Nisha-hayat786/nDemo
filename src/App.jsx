@@ -119,8 +119,8 @@ const App = () => {
         <div className="relative z-10 flex items-center justify-center h-[475px] px-8">
           <div className="text-center">
             <h1 className="text-5xl md:text-7xl font-bold text-transparent mb-8 leading-tight" style={{
-              WebkitTextStroke: '3px white',
-              textStroke: '3px white',
+              WebkitTextStroke: '2px white',
+              textStroke: '2px white',
               color: 'transparent'
             }}>
               Where Technology
