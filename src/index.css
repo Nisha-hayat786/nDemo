@@ -2,8 +2,8 @@
 
 .text-stroke{
     font-size: 75px;
-	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-width: 3px;
 	-webkit-text-stroke-color: white;
 	color: transparent;
-	font-family: Impact,  sans-serif;
+	font-family: Arial Black;
 }

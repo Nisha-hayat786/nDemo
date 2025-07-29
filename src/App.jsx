@@ -118,7 +118,7 @@ const App = () => {
         {/* Content Overlay */}
         <div className="relative z-10 flex items-center justify-center h-[475px] px-8">
           <div className="text-center">
-            <h1 className="text-5xl md:text-7xl mb-8 text-stroke">
+            <h1 className="text-4xl md:text-6xl mb-8 text-stroke">
               Where Technology
               Meets Intuition
             </h1>
